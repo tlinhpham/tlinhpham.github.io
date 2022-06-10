@@ -17,7 +17,6 @@ comments: true
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
 
