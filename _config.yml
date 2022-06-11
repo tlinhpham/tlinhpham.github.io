@@ -1,7 +1,7 @@
 # Site
 name: "Tlinhpham"
 title: "Tlinhpham"
-description: "Đây là cái mô tả của Linhhh"
+description: "Khi một người lười tất cả mọi thứ thử tập viết để bớt lười"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -16,7 +16,7 @@ authors:
     name: Linh
     display_name: Linh
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: tlinhpham@gmail.com
+    email: pttlphamthithuylinh@gmail.com
     web: https://tlinhpham.github.io/
     twitter: https://twitter.com/tlinhpham
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
